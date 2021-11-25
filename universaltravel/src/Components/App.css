@@ -1,0 +1,21 @@
+.navigationContent {
+  display: flex;
+  justify-content: space-around;
+  background-color: blue;
+  box-sizing: 3rem;
+  padding: 1rem;
+}
+.navigationLogo {
+  display: flex;
+  justify-content: space-around;
+  margin: 2rem;
+  background-color: pink;
+}
+.navigationLink {
+  text-decoration: none;
+  color: black;
+}
+.navigationLink:hover {
+  color: yellow;
+  transition: 0.5s;
+}
