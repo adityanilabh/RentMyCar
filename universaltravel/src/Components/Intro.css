@@ -1,0 +1,19 @@
+.Intro {
+  margin: 8rem 0rem;
+}
+.IntroHeading {
+  text-align: center;
+  margin: 2rem;
+}
+.IntroContent {
+  display: flex;
+  justify-content: center;
+}
+.IntroContents {
+  text-align: center;
+  margin: 0rem 2rem;
+}
+#welcome {
+  color: rgb(133, 133, 28);
+  font-weight: 600;
+}

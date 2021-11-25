@@ -1,6 +1,6 @@
 .navigationContent {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   background-color: blue;
   box-sizing: 3rem;
   padding: 1rem;

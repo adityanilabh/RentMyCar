@@ -1,0 +1,25 @@
+.DownloadApp {
+  background-color: blue;
+  padding-bottom: 1rem;
+}
+.DownloadAppHeading {
+  text-align: center;
+}
+.DownloadAppContent {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin: 2rem 0rem;
+  text-align: left;
+  background-color: black;
+  color: white;
+}
+.DownloadAppContentRight {
+  width: 35%;
+}
+.DownloadAppContentLeft {
+  width: 35%;
+}
+.DownloadAppContentCenter {
+  width: 30%;
+}
